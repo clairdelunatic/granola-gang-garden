@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/co-s-2026/sessions/quests/rescue-gideon/","title":"Find Gideon","dg-note-properties":{"title":"Find Gideon","layout":"layouts/base.njk","type":"quest","faction":"Hellriders","quest giver":"Jander Sunstar","location":null,"world":"CoS EloyVera","campaign":"Curse of Strahd","date":"2026-04-29","description":null,"⅁ promised":null,"⅁-rewarded":null}}
+{"dg-publish":true,"permalink":"/co-s-2026/sessions/quests/rescue-gideon/","title":"Find Gideon","dg-note-properties":{"title":"Find Gideon","layout":"layouts/base.njk","type":"quest","faction":"Hellriders","quest giver":"Jander Sunstar","location":"Barovia","world":"CoS EloyVera","campaign":"Curse of Strahd","date":"2026-04-29","description":null,"⅁ promised":null,"⅁-rewarded":null}}
 ---
 
 # Log
