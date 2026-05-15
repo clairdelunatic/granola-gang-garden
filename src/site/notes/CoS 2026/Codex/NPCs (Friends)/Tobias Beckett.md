@@ -4,4 +4,4 @@
 
 # [[CoS 2026/Codex/NPCs (Friends)/Tobias Beckett\|Tobias Beckett]]
 
-[[CoS 2026/PCs/Bram the Quiet\|Bram the Quiet]]'s mentor, who was taken by the [[CoS 2026/Codex/Factions/Vistani\|Vistani]] in [[CoS 2026/Sessions/001_20260429 Session 1\|Session 1]].
+[[CoS 2026/PCs/Bram the Quiet\|Bram]]'s mentor, who was taken by the [[CoS 2026/Codex/Factions/Vistani\|Vistani]] in [[CoS 2026/Sessions/001_20260429 Session 1\|Session 1]].

@@ -8,6 +8,5 @@ During the [[CoS 2026/Sessions/Events/Carnival of the Mists\|Carnival of the Mis
 
 - Hold breath
 - Keen smell
-
 # Actions
 - Bite

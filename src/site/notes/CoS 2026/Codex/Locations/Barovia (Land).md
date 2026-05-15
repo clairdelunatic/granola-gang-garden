@@ -21,14 +21,17 @@ render: dom
 id: map-mp783ojc
 ```
 
-In [[CoS 2026/Sessions/001_20260429 Session 1\|Session 1]],
+There is no formal postal system to speak of.
+
+In [[CoS 2026/Sessions/001_20260429 Session 1\|Session 1]], we learned:
 - According to [[CoS 2026/Codex/NPCs (Friends)/Jander Sunstar\|Jander Sunstar]], [[CoS 2026/Codex/Locations/Barovia (Land)\|Barovia]] has three main towns, each with a shrine to [[CoS 2026/Codex/Factions/Morninglord\|Morninglord]]. These shrines are sacred ground, which protects them from [[CoS 2026/Codex/NPCs (Friends)/Strahd von Zarovich\|Strahd]].
 - This land does not appear on any maps.
 - It is somehow connected to the mists.
 - People do not return from [[CoS 2026/Codex/Locations/Barovia (Land)\|Barovia]].
 
+In [[CoS 2026/Sessions/002_20260513 Session 2\|Session 2]], we learned:
+- According to Stanimir, we will not be able to freely travel back to [[CoS 2026/Codex/Locations/Faerûn\|Faerûn]].
 ## Factions
-
 | Faction                                         | Description                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------- |
 | [[CoS 2026/Codex/Factions/Vistani\|Vistani]] | Mysterious tradespeople who travel between Barovia and Faerûn |

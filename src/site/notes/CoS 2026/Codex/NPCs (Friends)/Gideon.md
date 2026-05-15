@@ -4,5 +4,8 @@
 
 # [[CoS 2026/Codex/NPCs (Friends)/Gideon\|Gideon]]
 
-Gideon is an agent of [[CoS 2026/Codex/NPCs (Friends)/Jander Sunstar\|Jander Sunstar]] and priest of Helm. [[CoS 2026/Sessions/001_20260429 Session 1\|Session 1]], Zar was tasked by [[CoS 2026/Codex/NPCs (Friends)/Jander Sunstar\|Jander Sunstar]] to rescue him from Barovia. He was heading to Kresk.
+Gideon is an agent of [[CoS 2026/Codex/NPCs (Friends)/Jander Sunstar\|Jander Sunstar]] and priest of Helm. 
+
+In [[CoS 2026/Sessions/001_20260429 Session 1\|Session 1]], 
+- Zar was tasked by [[CoS 2026/Codex/NPCs (Friends)/Jander Sunstar\|Jander Sunstar]] to rescue him from Barovia. He was heading to Kresk.
 

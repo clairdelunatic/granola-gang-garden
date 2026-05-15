@@ -19,7 +19,7 @@
 | File                                               | Starting Description                                                                                                                |
 | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [[CoS 2026/PCs/Zar\|Zar]]                       | A knight of Elturel who has recently come out of a terrible (fiery?) experience in Barovia, and returns at the behest of a superior |
-| [[CoS 2026/PCs/Erno Van Iche\|Erno Van Iche]]   | The son of a displaced noble family-turned-shadow operative? Assassin for hire?                                                     |
+| [[CoS 2026/PCs/Erno Van Iche\|Erno Van Iche]]   | The son of a displaced noble family-turned-shadow operative? Assassin for hire? He suspiciously calls himself an "ordinary person." |
 | [[CoS 2026/PCs/Bram the Quiet\|Bram the Quiet]] | A giant who has left behind a life of hard labor and servitude, to find his family and uncover his past.                            |
 | [[CoS 2026/PCs/Andi Amo\|Andi Amo]]             | A 19-year-old acolyte of Kelemvor, whose starting goal is to "win" at her camp experience.                                          |
 

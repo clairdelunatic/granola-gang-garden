@@ -7,4 +7,4 @@
 # Log
 
 ### In [[CoS 2026/Sessions/001_20260429 Session 1\|Session 1]]
-- [[CoS 2026/PCs/Erno Van Iche\|Erno]] was tracking [[CoS 2026/Codex/NPCs (Friends)/Yarak and Dabra\|Yarak and Dabra]] through the Carnival of the Mists when he lost sight of them in the Forbidden Tent belonging to the [[CoS 2026/Codex/Factions/Vistani\|Vistanis]] 
+- [[CoS 2026/PCs/Erno Van Iche\|Erno]] was tracking [[CoS 2026/Codex/NPCs (Friends)/Yarak and Dabra\|Yarak and Dabra]] through the [[CoS 2026/Sessions/Events/Carnival of the Mists\|Carnival of the Mists]] when he lost sight of them in the Forbidden Tent belonging to the [[CoS 2026/Codex/Factions/Vistani\|Vistanis]] 

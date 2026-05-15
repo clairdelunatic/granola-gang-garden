@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/co-s-2026/codex/factions/kelemvor-church/","title":"Kelemvor (Church of)","dg-note-properties":{"title":"Kelemvor (Church of)","layout":"layouts/base.njk","type":"faction","faction":"Kelemvorite","location":null,"world":"Faerûn","campaign":"Curse of Strahd","date":"2026-04-29","description":"a religious following of the Lord of the Dead, Kelemvor","race":null,"gender":null,"class":null}}
 ---
 
-
 Kelemvor (formerly Kelemvor Lyonsbane), also known as the Lord of the Dead and Judge of the Damned, is the god of death and the dead. In his mortal days, Kelemvor was a skilled mercenary, with the heart of a noble paladin, concealed under rude manners and thwarted by his mysterious family curse.
   
 Fair yet cold, Kelemvor is the god of death and the dead—the most recent deity to hold this position. Unlike Jergal, Myrkul, and Cyric, who made the afterlife an uncertain and fearful thing, Kelemvor urges knowledge that **death is a natural part of life and should not be feared as long as it is understood.**
