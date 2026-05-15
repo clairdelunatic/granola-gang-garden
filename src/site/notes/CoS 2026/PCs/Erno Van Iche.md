@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/co-s-2026/p-cs/erno-van-iche/","title":"Erno","dg-note-properties":{"title":"Erno","layout":"layouts/base.njk","aliases":["Erno"],"type":"PC","hp":null,"ac":14,"modifier":null,"level":2,"faction":null,"location":null,"world":"CoS EloyVera","campaign":"Curse of Strahd","date":"2026-04-29","description":"The son of a displaced noble family-turned-shadow operative? Assassin for hire?","race":"human","gender":"male","class":"rogue"}}
+{"dg-publish":true,"permalink":"/co-s-2026/p-cs/erno-van-iche/","title":"Erno","dg-note-properties":{"title":"Erno","layout":"layouts/base.njk","aliases":["Erno"],"type":"PC","hp":null,"ac":14,"modifier":null,"level":2,"faction":null,"location":null,"world":"CoS EloyVera","campaign":"Curse of Strahd","date":"2026-04-29","description":"The son of a displaced noble family-turned-shadow operative? Assassin for hire? He suspiciously calls himself an \"ordinary person.\"","race":"human","gender":"male","class":"rogue"}}
 ---
 
 # [[CoS 2026/PCs/Erno Van Iche\|Erno Van Iche]]
