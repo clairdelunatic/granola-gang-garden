@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/co-s-2026/sessions/quests/create-a-base-of-operations-in-barovia/","title":"Create base","dg-note-properties":{"title":"Create base","layout":"layouts/base.njk","type":"quest","faction":"Hellriders","quest giver":null,"location":"Barovia","world":"CoS EloyVera","campaign":"Curse of Strahd","date":"2026-04-29","description":null}}
+{"dg-publish":true,"permalink":"/co-s-2026/sessions/quests/create-a-base-of-operations-in-barovia/","title":"Create a base of operations","dg-note-properties":{"title":"Create a base of operations","layout":"layouts/base.njk","type":"quest","faction":"Hellriders","quest giver":null,"location":"Barovia","world":"CoS EloyVera","campaign":"Curse of Strahd","date":"2026-04-29","description":null}}
 ---
 
 
