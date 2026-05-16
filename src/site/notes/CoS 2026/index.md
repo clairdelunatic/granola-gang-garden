@@ -3,7 +3,7 @@
 ---
 
 ![granolaBanner.png\|banner](/img/user/CoS%202026/a-library/image%20assets/granolaBanner.png)
-
+![logo.png\|156](/img/user/CoS%202026/a-library/image%20assets/logo.png)
 
 ## Sessions
 | File                                                                    | Summary |
